@@ -13,6 +13,14 @@ module.exports = {
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
             },
+            backgroundImage: {
+                'body': 'linear-gradient(180deg,#F1F8FF 0%,#FEEEEF 40.94%,#FFFFFF 56.56%)',
+            },
+            colors:{
+                'dark': '#2c383f',
+                'base-primary': '#464646',
+                'orange' : 'rgb(255 95 83)'
+            }
         },
     },
 
